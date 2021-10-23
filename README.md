@@ -16,4 +16,4 @@ Il file script.js in cui sono tenute le funzioni di aumento/decremento/reset e l
 Il file CSS crato da me per personalizzare il codice 
 
 ## Raggiungibilità
-L'applicazione è raggiungibile all URL https://contatorejs2.web.app/
+L'applicazione è raggiungibile all URL https://superguidajavascriptbase.firebaseapp.com/ oppure https://superguidajavascriptbase.web.app/

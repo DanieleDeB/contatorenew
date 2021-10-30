@@ -68,9 +68,6 @@ function updateCounter(number) {
     valCounter = 0;
     text.textContent = valCounter;
   } else {
-    console.log("number " + number);
-    console.log("valCounter " + valCounter);
-
     valCounter += number;
     text.textContent = valCounter;
   }
